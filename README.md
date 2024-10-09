@@ -1,4 +1,4 @@
-# Programming Assignments Overview
+# CST 334 - Operating Systems
 
 These are the programming assignments for CST334.
 
